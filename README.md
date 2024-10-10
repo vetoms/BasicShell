@@ -21,7 +21,7 @@ To run this shell program, you need:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your_username/simple_rust_shell.git
+    git clone https://github.com/vetoms/BasicShell.git
     ```
 
 2. Navigate to the project directory:
